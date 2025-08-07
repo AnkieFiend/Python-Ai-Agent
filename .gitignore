@@ -7,7 +7,9 @@ __pycache__/
 # C extensions
 *.so
 
+#from boot.dev
 venv/
+.env
 
 # Distribution / packaging
 .Python
